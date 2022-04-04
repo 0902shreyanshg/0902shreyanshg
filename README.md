@@ -1,17 +1,17 @@
-<h1 align="center">Heyy Guys 👋, I'm Shreyansh</h1>
+<h1 align="center">Heyy Guys 👋, I'm Shreyansh 😊</h1>
 <h3 align="center">I'm a student passionate about science and tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0902shreyanshg&label=Profile%20views&color=0e75b6&style=flat" alt="0902shreyanshg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0902shreyanshg" alt="0902shreyanshg" /></a> </p>
 
-- 🔭 I’m currently working on **problem solving in python**
+- 🔭 I’m currently learning & working on **Data Science python libraries**.
 
-- 🌱 I’m currently learning **python for AI-ML**
+- 💬 Always eager to interact on topics related to **Science, tech, mathematics** and **programming**.
 
-- 💬 Ask me about **Science, tech and programming related stuff**
+- 🌱 I'm a nature lover and my hobbies include surfing on web, jogging/running, swimming, debate & exploring new friends.
 
-- 📫 How to reach me **0902shreyanshg@gmail.com**
+- 📫 You can connect with me on Gmail; my ID is **0902shreyanshg@gmail.com** & my other social media handles are also mentioned here.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
